@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "colorama",
+        "dateutil",
+        "itsdangerous",
+        "joblib",
+        "numpy",
+        "pytz",
+        "scikit",
+        "scipy",
+        "threadpoolctl",
+        "tzdata",
+        "Werkzeug"
+    ]
+}
